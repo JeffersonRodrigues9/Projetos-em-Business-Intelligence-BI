@@ -4,7 +4,7 @@ Estes projetos foram apresentados durante minha capacitação em Microsoft Power
 
 ## Sumário
 
-## Business Intelligence
+### Business Intelligence
 
 #### 1. -Projeto 1 - Análise de Campanhas de Marketing
 #### 2. -Projeto 2 - Análise de Dados Comerciais: Performance de Vendas
