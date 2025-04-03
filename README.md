@@ -12,7 +12,7 @@ Estes projetos foram apresentados durante minha capacitação em Microsoft Power
 #### 4. -Projeto 4 - Análise de Dados de Logística
 #### 5. -Projeto 5 - Análise de Dados Financeiros
 
-### Parte 2: Data Science
+### Data Science
 #### 6. -Projeto 6 - Limpeza e Manipulação de Dados de Cadastro de Clientes
 #### 7. -Projeto 7 - Engenharia de Atributos com Linguagem M
 #### 8. -Projeto 8 - Integrando Banco de Dados com Power BI para Extração e Análise de Dados
