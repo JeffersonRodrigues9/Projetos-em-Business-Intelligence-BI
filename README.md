@@ -5,12 +5,10 @@ Estes projetos foram apresentados durante minha capacitação em Microsoft Power
 ### Sumário
 
 ### Parte 1: Business Intelligence
-#### 1. Laboratório Prático 1 - Dashboard Analítico de Vendas Globais
-#### 2. Laboratório Prático 2 - Dashboard de Vendas, Custo, Margem de Lucro e KPI
-#### 3. -Projeto 1 - Análise de Campanhas de Marketing
-#### 4. -Projeto 2 - Análise de Dados Comerciais: Performance de Vendas
-#### 5. -Projeto 3 - Análise de Dados de Recursos Humanos
-#### 6. -Projeto 4 - Análise de Dados de Logística
-#### 7. -Projeto 5 - Análise de Dados Financeiros
-#### 8. Laboratório Prático 3 - Análise de Dados Contábeis: Balanço Patrimonial
-#### 9. -Projeto 6 - Análise de Dados do Mercado de Ações
+
+#### 1. -Projeto 1 - Análise de Campanhas de Marketing
+#### 2. -Projeto 2 - Análise de Dados Comerciais: Performance de Vendas
+#### 3. -Projeto 3 - Análise de Dados de Recursos Humanos
+#### 4. -Projeto 4 - Análise de Dados de Logística
+#### 5. -Projeto 5 - Análise de Dados Financeiros
+
