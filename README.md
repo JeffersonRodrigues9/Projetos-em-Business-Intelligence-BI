@@ -20,4 +20,4 @@ Estes projetos foram apresentados durante minha capacitação em Microsoft Power
 #### 10. -Projeto 10 - Engenharia de Producão com Power BI e IA: Prevendo a Produção Industrial ao Longo do Tempo
 
 
-(https://github.com/JeffersonRodrigues9/Projetos-em-Business-Intelligence-BI/issues/1#issue-2978564450)
+![Projeto1](https://github.com/JeffersonRodrigues9/Projetos-em-Business-Intelligence-BI/issues/1#issue-2978564450)
