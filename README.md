@@ -45,7 +45,7 @@ Para cada visão, foram analisadas as variáveis relevantes, criados gráficos e
 
 2.2 Dashboard - Visão do comportamento de compra do cliente
 
-![Image](https://github.com/user-attachments/assets/d7dedd77-ef3b-4bd7-a821-9144836c1cad
+![Image](https://github.com/user-attachments/assets/d7dedd77-ef3b-4bd7-a821-9144836c1cad)
 
 2.3  Dashboard - Visão da Performance das Campanhas de Marketin
 
