@@ -1,6 +1,6 @@
 # Projetos de Business Intelligence e Data Science utilizando Power BI
 
-Estes projetos foram apresentados durante minha capacitação em Microsoft Power BI para Business Intelligence e Data Science, através de projetos fornecidos pelos portais de capacitação profissional Data Science Academy (DSA), Alura e FIAP. Durante o curso, não apenas foi abordado como utilizar o Microsoft Power BI, mas também como aplicar técnicas de Data Science para gerar modelos preditivos e extrair insights para a tomada de decisões, integrando o Power BI com Linguagem R e Python.
+Estes projetos foram apresentados durante minha capacitação em Microsoft Power BI para Business Intelligence e Data Science, através de projetos fornecidos pelos portais de capacitação profissional Alura, FIAP, Data Science Academy (DSA) e Xperium. Durante o curso, além de aprender a utilizar o Microsoft Power BI, também foram abordadas técnicas avançadas de Data Science para criação de modelos preditivos e extração de insights valiosos para a tomada de decisões. O conteúdo incluiu ainda o estudo de modelagem de dados, Linguagem DAX, e os processos de ETL e ELT, além da integração do Power BI com as linguagens R e Python, proporcionando uma compreensão completa da análise e manipulação de dados.
 
 ## Business Intelligence
 
