@@ -6,7 +6,7 @@ Estes projetos foram apresentados durante minha capacitação em Microsoft Power
 
 ### Business Intelligence
 
-#### 1. -Projeto 1 - Análise de Campanhas de Marketing
+#### 1. -Projeto 1 - [Dashboard Analítico de vendas Globais]
 #### 2. -Projeto 2 - Análise de Dados Comerciais: Performance de Vendas
 #### 3. -Projeto 3 - Análise de Dados de Recursos Humanos
 #### 4. -Projeto 4 - Análise de Dados de Logística
@@ -19,5 +19,3 @@ Estes projetos foram apresentados durante minha capacitação em Microsoft Power
 #### 9. -Projeto 9 - Machine Learning com Linguagem Python e Power BI dentro do Jupyter Notebook
 #### 10. -Projeto 10 - Engenharia de Producão com Power BI e IA: Prevendo a Produção Industrial ao Longo do Tempo
 
-
-![Image](https://github.com/user-attachments/assets/be13dff8-0bb2-45a8-8183-b41106d5a18c)
