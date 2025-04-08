@@ -4,7 +4,7 @@ Estes projetos foram apresentados durante minha capacitação em Microsoft Power
 
 ## Business Intelligence
 
-### 1. Projeto 1 - Análise de dados Financeiros
+## 1. Projeto 1 - Análise de dados Financeiros
 
 Neste Projeto, explorei diversas funcionalidades do Power BI no contexto da área de finanças. Utilizei dados fictícios, que contavam com problemas de layout inseridos propositalmente. Durante o projeto, resolvi esses problemas aplicando diferentes funcionalidades do Power BI, incluindo o uso de pivô de tabela.
 
