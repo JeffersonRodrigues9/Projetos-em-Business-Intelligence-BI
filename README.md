@@ -19,6 +19,7 @@ Estes projetos foram apresentados durante minha capacitação em Microsoft Power
 #### 9. -Projeto 9 - Machine Learning com Linguagem Python e Power BI dentro do Jupyter Notebook
 #### 10. -Projeto 10 - Engenharia de Producão com Power BI e IA: Prevendo a Produção Industrial ao Longo do Tempo
 
+![Texto alternativo](URL-da-imagem)
 
 ![Imagem do projeto](https://github.com/usuario/repositorio/raw/main/pasta/imagem.jpg)
 
