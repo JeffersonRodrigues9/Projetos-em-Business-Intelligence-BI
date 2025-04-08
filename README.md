@@ -55,8 +55,29 @@ Para cada visão, foram analisadas as variáveis relevantes, criados gráficos e
 
 ![Image](https://github.com/user-attachments/assets/ed52f69a-8220-436d-aff0-0e61411f7848)
 
+### Projeto 3 - Análise de dados de Recursos Humanos
 
+Este Projeto ofereceu uma introdução à análise de dados de Recursos Humanos (RH) utilizando o Power BI, com base em dados fictícios. Ao longo do projeto, explorei diversas funcionalidades e recursos do Power BI, como a criação de tabelas de medidas e colunas condicionais, ampliando as possibilidades de análise e visualização dos dados.
 
+O Dashboard criado foi desenvolvido para responder às seguintes perguntas de negócio, atendendo a especificações específicas:
+
+- Pergunta 1 - Qual o total de funcionários atualmente na empresa?
+
+- Pergunta 2 - Qual o tempo médio de experiência dos funcionários (em anos)?
+
+- Pergunta 3 - Qual o total e o percentual de funcionários por gênero (masculino e feminino)?
+
+- Pergunta 4 - Qual a média salarial mensal dos funcionários?
+
+- Pergunta 5 - Qual o total de funcionários por função?
+
+- Pergunta 6 - Qual o percentual de funcionários disponíveis para realizar hora extra?
+
+- Pergunta 7 - Qual o nível de envolvimento dos funcionários no trabalho, considerando as categorias: Ruim, Baixo, Médio e Alto?
+
+Embora não esteja visível no Dashboard, é necessário calcular o seguinte: Qual o total e o percentual de funcionários que devem ser considerados para promoção? Para isso, deve-se aplicar a regra baseada na coluna 'Anos Desde a Última Promoção': se o funcionário tiver 5 anos ou mais desde a última promoção, ele deve ser considerado para promoção; caso contrário, não será considerado no momento
+
+![Image](https://github.com/user-attachments/assets/063088e6-8783-48ff-afd6-008fe88a12e1)
 
 
 
