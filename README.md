@@ -22,7 +22,7 @@ O Dashboard desenvolvido deve ser capaz de responder às seguintes questões de 
 
 Além disso, o Dashboard deve me permitir filtrar os dados por ano, segmento e país, proporcionando uma análise mais detalhada e personalizada.
 
-#### ![Image](https://github.com/user-attachments/assets/7d5f447e-957f-44ee-a885-4a86ff088066)
+############# ![Image](https://github.com/user-attachments/assets/7d5f447e-957f-44ee-a885-4a86ff088066)
 
 #### 2. -Projeto 2 - Dashboard de vendas, custos, margem de lucro e KPI
 
