@@ -21,7 +21,23 @@ Além disso, a empresa precisa identificar os segmentos onde as receitas e despe
 
 ![Image](https://github.com/user-attachments/assets/c164942d-5bcf-42c1-9c8b-dda631249243)
 
-### 2. Projeto 2 - Dashboard Analítico de vendas Globais
+### 2. Projeto 2 - Análise de Dados do Mercado de Ações.
+
+Neste Mini-Projeto, desenvolvi um Dashboard Analítico do Mercado de Ações, explorando duas funcionalidades avançadas do Power BI: a Narrativa Inteligente e a Time Intelligence (manipulação de data). Utilizei dados reais extraídos publicamente do portal da NASDAQ, que incluem diversas colunas com informações sobre o preço e o volume de negociação das ações no mercado. Para a análise, selecionei os dados de cinco empresas: IBM, Microsoft, Oracle, Tesla e Walmart."
+
+O Dashboard foi desenvolvido para responder às seguintes perguntas de negócio e atender às especificações definidas:
+
+- Qual o total de volume negociado de ações ao longo do tempo para as cinco empresas analisadas? A análise deve permitir a escolha de uma única empresa ou a combinação de várias empresas.
+
+- Qual o valor médio de abertura (Open), mais alto (High), mais baixo (Low) e de fechamento (Close) das ações para todas as empresas, considerando todos os meses do período analisado (1 ano no nosso exemplo)? A análise deve ser apresentada em formato de tabela e permitir a seleção de uma única empresa ou uma combinação delas.
+
+- Qual a variação da média do valor de fechamento (Close) das ações ao longo do tempo, mês a mês? A análise deve possibilitar a seleção de uma única empresa ou um grupo de empresas.
+
+- Utilizar a funcionalidade de Narrativa Inteligente para destacar e explicar as principais características e tendências nos dados.
+
+![Image](https://github.com/user-attachments/assets/71906de4-ecd9-42d2-b541-6a56f577c440)
+
+### 3. Projeto 3 - Dashboard Analítico de vendas Globais
 
 Este laboratório utiliza dados de vendas de uma empresa fictícia que comercializa produtos globalmente.
 
@@ -41,7 +57,7 @@ Além disso, o Dashboard deve me permitir filtrar os dados por ano, segmento e p
 
  ![Image](https://github.com/user-attachments/assets/7d5f447e-957f-44ee-a885-4a86ff088066)
 
-### 3. Projeto 3 - Análise de campanhas de Marketing
+### 4. Projeto 4 - Análise de campanhas de Marketing
 Neste Projeto, tive a oportunidade de realizar uma introdução prática à análise de campanhas de Marketing utilizando o Power BI. Desenvolvi quatro dashboards interativos, com mais de dez elementos visuais, além de realizar diversas customizações, formatações e ajustes nos dados. Ao longo do projeto, explorei diferentes recursos do Power BI para otimizar a visualização e análise das informações. Os dados utilizados foram previamente preparados e representam informações sobre clientes e campanhas de Marketing de uma empresa fictícia.
 
 Neste Projeto, os relatórios foram organizados em quatro principais visões:
@@ -56,23 +72,23 @@ Visão dos Padrões de Compra no Ponto de Venda (País)
 
 Para cada visão, foram analisadas as variáveis relevantes, criados gráficos e medidas, extraídas métricas e realizados cruzamentos de dados, com o objetivo de fornecer aos tomadores de decisão uma visão abrangente sobre o perfil dos clientes, os padrões de compra e a eficácia das campanhas de Marketing.
 
-### 3.1 Dashboard - Visão do Cliente
+### 4.1 Dashboard - Visão do Cliente
 
 ![Image](https://github.com/user-attachments/assets/7225cc9a-acd0-4706-b17b-a3a35ac752cd)
 
-### 3.2 Dashboard - Visão do comportamento de compra do cliente
+### 4.2 Dashboard - Visão do comportamento de compra do cliente
 
 ![Image](https://github.com/user-attachments/assets/d7dedd77-ef3b-4bd7-a821-9144836c1cad)
 
-### 3.3  Dashboard - Visão da Performance das Campanhas de Marketin
+### 4.3  Dashboard - Visão da Performance das Campanhas de Marketin
 
 ![Image](https://github.com/user-attachments/assets/22dfd3d1-4092-403e-9e3c-d0bce548ffb5)
 
-### 3.4 Dashboard - Visão dos Padrões de Compra no Ponto de Venda (País)
+### 4.4 Dashboard - Visão dos Padrões de Compra no Ponto de Venda (País)
 
 ![Image](https://github.com/user-attachments/assets/ed52f69a-8220-436d-aff0-0e61411f7848)
 
-### 4. Projeto 4 - Análise de dados de Recursos Humanos
+### 5. Projeto 5 - Análise de dados de Recursos Humanos
 
 Este Projeto ofereceu uma introdução à análise de dados de Recursos Humanos (RH) utilizando o Power BI, com base em dados fictícios. Ao longo do projeto, explorei diversas funcionalidades e recursos do Power BI, como a criação de tabelas de medidas e colunas condicionais, ampliando as possibilidades de análise e visualização dos dados.
 
@@ -95,7 +111,6 @@ O Dashboard criado foi desenvolvido para responder às seguintes perguntas de ne
 Embora não esteja visível no Dashboard, é necessário calcular o seguinte: Qual o total e o percentual de funcionários que devem ser considerados para promoção? Para isso, deve-se aplicar a regra baseada na coluna 'Anos Desde a Última Promoção': se o funcionário tiver 5 anos ou mais desde a última promoção, ele deve ser considerado para promoção; caso contrário, não será considerado no momento
 
 ![Image](https://github.com/user-attachments/assets/063088e6-8783-48ff-afd6-008fe88a12e1)
-
 
 
 
