@@ -132,5 +132,21 @@ Este projeto demonstra a capacidade de transformar dados financeiros em insights
 
 ### 7. Projeto 7 - Recursos Humanos
 
+Este projeto teve como objetivo desenvolver um Dashboard de Recursos Humanos (RH) utilizando o Power BI, com base em dados fictícios. O dashboard foi elaborado para proporcionar uma visão clara e objetiva dos principais indicadores da área de RH, facilitando o acompanhamento da força de trabalho e apoiando a tomada de decisões estratégicas. Durante o desenvolvimento, foram aplicados recursos como segmentações, medidas DAX e gráficos interativos para enriquecer a análise.
+
+O Dashboard foi construído para responder às seguintes perguntas de negócio:
+
+Pergunta 1 – Quantos funcionários estão atualmente ativos na empresa?
+
+Pergunta 2 – Qual foi o total de contratações e demissões ao longo do período analisado?
+
+Pergunta 3 – Qual é a taxa de turnover da empresa?
+
+Pergunta 4 – Como estão distribuídos os colaboradores por cidade, gênero, cargo e área de atuação?
+
+Este projeto reforça a importância da visualização de dados aplicada ao RH, promovendo maior transparência na gestão de pessoas e contribuindo para decisões mais estratégicas e alinhadas com os objetivos da organização.
+
 ![Image](https://github.com/user-attachments/assets/a0b2dbf5-c385-40ae-8785-63fd0d6f4b3f)
+
+
 
