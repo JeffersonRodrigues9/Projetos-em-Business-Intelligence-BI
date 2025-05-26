@@ -116,5 +116,8 @@ Embora não esteja visível no Dashboard, é necessário calcular o seguinte: Qu
 
 ![Image](https://github.com/user-attachments/assets/f1d76627-6a93-4b3f-b596-b0f6d0fcd629)
 
+### 7. Projeto 7 - Recursos Humanos
+
+![Image](https://github.com/user-attachments/assets/a0b2dbf5-c385-40ae-8785-63fd0d6f4b3f)
 
 
