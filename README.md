@@ -112,7 +112,11 @@ Embora não esteja visível no Dashboard, é necessário calcular o seguinte: Qu
 
 ![Image](https://github.com/user-attachments/assets/063088e6-8783-48ff-afd6-008fe88a12e1)
 
-### 6. Projeto 6 - Análise de dados de um projeto Financeiro
+### 6. Projeto 6 - 
+
+![Image](https://github.com/user-attachments/assets/3620d7a8-a3ca-4fda-884b-2420c2abbda7)
+
+### 7. Projeto 7 - Análise de dados de um projeto Financeiro
 
 Este projeto teve como objetivo desenvolver um Dashboard Financeiro utilizando o Power BI, com base em dados fictícios de cinco instituições bancárias: SAFRA, Nubank, Santander, Bradesco e Itaú. Durante o desenvolvimento, foram utilizadas funcionalidades como criação de medidas DAX, segmentações interativas e gráficos dinâmicos, com o intuito de facilitar a análise e interpretação dos dados financeiros ao longo do ano.
 
@@ -130,7 +134,7 @@ Este projeto demonstra a capacidade de transformar dados financeiros em insights
 
 ![Image](https://github.com/user-attachments/assets/f1d76627-6a93-4b3f-b596-b0f6d0fcd629)
 
-### 7. Projeto 7 - Recursos Humanos
+### 8. Projeto 8 - Recursos Humanos
 
 Este projeto teve como objetivo desenvolver um Dashboard de Recursos Humanos (RH) utilizando o Power BI, com base em dados fictícios. O dashboard foi elaborado para proporcionar uma visão clara e objetiva dos principais indicadores da área de RH, facilitando o acompanhamento da força de trabalho e apoiando a tomada de decisões estratégicas. Durante o desenvolvimento, foram aplicados recursos como segmentações, medidas DAX e gráficos interativos para enriquecer a análise.
 
