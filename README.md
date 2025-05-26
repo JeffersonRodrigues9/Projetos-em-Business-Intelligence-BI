@@ -112,5 +112,9 @@ Embora não esteja visível no Dashboard, é necessário calcular o seguinte: Qu
 
 ![Image](https://github.com/user-attachments/assets/063088e6-8783-48ff-afd6-008fe88a12e1)
 
+### 6. Projeto 6 - Análise de dados de um projeto Financeiro
+
+![Image](https://github.com/user-attachments/assets/f1d76627-6a93-4b3f-b596-b0f6d0fcd629)
+
 
 
