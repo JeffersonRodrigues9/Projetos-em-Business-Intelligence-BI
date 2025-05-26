@@ -114,6 +114,20 @@ Embora não esteja visível no Dashboard, é necessário calcular o seguinte: Qu
 
 ### 6. Projeto 6 - Análise de dados de um projeto Financeiro
 
+Este projeto teve como objetivo desenvolver um Dashboard Financeiro utilizando o Power BI, com base em dados fictícios de cinco instituições bancárias: SAFRA, Nubank, Santander, Bradesco e Itaú. Durante o desenvolvimento, foram utilizadas funcionalidades como criação de medidas DAX, segmentações interativas e gráficos dinâmicos, com o intuito de facilitar a análise e interpretação dos dados financeiros ao longo do ano.
+
+O Dashboard foi elaborado para responder às seguintes perguntas de negócio:
+
+Pergunta 1 – Qual é a receita total anual de cada banco?
+
+Pergunta 2 – Quais são as despesas totais por instituição ao longo do período analisado?
+
+Pergunta 3 – Qual o valor de impostos pagos por cada banco durante o ano?
+
+Pergunta 4 – Qual é o lucro líquido de cada banco, considerando receitas, despesas e impostos?
+
+Este projeto demonstra a capacidade de transformar dados financeiros em insights estratégicos, apoiando processos de tomada de decisão de forma clara e visualmente eficaz.
+
 ![Image](https://github.com/user-attachments/assets/f1d76627-6a93-4b3f-b596-b0f6d0fcd629)
 
 ### 7. Projeto 7 - Recursos Humanos
